@@ -129,7 +129,8 @@ In Stitch: `Settings` → `API Keys` → `Create API Key`. Copy it (keep it priv
 In Antigravity: `MCP Servers` → `Add Stitch MCP` → Paste API Key → `Connect`.
 
 #### 3. Test Connection
-Prompt Antigravity: *"List my Stitch projects."*
+Prompt Antigravity: 
+> "List my Stitch projects."
 
 If you see your project name in the list, the MCP is connected successfully!
 
@@ -178,9 +179,10 @@ firebase login
 
 #### 4. Set up Authentication
 Prompt Antigravity:
-1. *"List my Firebase projects."*
-   - If you see your project name in the list, the MCP is connected successfully!
-2. *"Use my **[Your Firebase Project Name]** to set up email/password authentication. Connect the forms, handle redirects to the dashboard after login, and add a logout function."*
+> "List my Firebase projects."
+- If you see your project name in the list, the MCP is connected successfully!
+
+> "Use my **[Your Firebase Project Name]** to set up email/password authentication. Connect the forms, handle redirects to the dashboard after login, and add a logout function."
 
 #### 5. Test & Verify
 1. Open your web app and **create a new account** using the sign-up form.
