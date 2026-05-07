@@ -14,7 +14,9 @@ Node.js is required to run development tools and manage dependencies.
 - **Verify installation**:
   ```bash
   node -v
+  # Sample Output: v22.14.0
   npm -v
+  # Sample Output: 11.2.0
   ```
 
 ### 2. Antigravity Installation
@@ -34,6 +36,7 @@ Docker is needed to run some MCP servers locally, especially GitHub MCP.
 - **Verify installation**:
   ```bash
   docker --version
+  # Sample Output: Docker version 27.3.1, build ce12230
   ```
 - **Verify Docker engine is running**:
   ```bash
@@ -44,7 +47,7 @@ Docker is needed to run some MCP servers locally, especially GitHub MCP.
 
 ### 4. Accounts Required
 Please sign in or create accounts for:
-- [Stitch](https://stitch.fit)
+- [Stitch](https://stitch.withgoogle.com/)
 - [Firebase](https://console.firebase.google.com/)
 - [GitHub](https://github.com/)
 
