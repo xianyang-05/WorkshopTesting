@@ -1,6 +1,6 @@
-# 🛠️ Workshop Handbook: Building DailyFit with Antigravity & MCP
+# 🛠️ Workshop Handbook: Building App with Antigravity & MCP
 
-Welcome to the **DailyFit** workshop! This handbook will guide you through the journey of building a premium, AI-powered fitness tracking application from scratch using the modern agentic stack.
+Welcome to the **Vibe To Live** workshop! This handbook will guide you through building a web application from scratch using a modern AI-assisted development workflow.
 
 ---
 
