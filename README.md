@@ -172,6 +172,7 @@ firebase login
 #### 4. Set up Authentication
 Prompt Antigravity:
 1. *"List my Firebase projects."*
+   - If you see your project name in the list, the MCP is connected successfully!
 2. *"Use my **[Your Firebase Project Name]** to set up email/password authentication. Connect the forms, handle redirects to the dashboard after login, and add a logout function."*
 
 #### 5. Test & Verify
