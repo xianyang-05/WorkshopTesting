@@ -78,10 +78,8 @@ In this workshop, participants will build a web app using:
 ### Phase 1: Choose Your App Idea
 Before opening Stitch, choose a simple app idea. Your app should include at least:
 1. Landing page
-2. Authentication page with Sign In and Sign Up
+2. Authentication page (Sign In/Up)
 3. Dashboard page
-4. Statistics / Progress page
-5. Profile page
 
 ---
 
@@ -100,7 +98,7 @@ Paste a website URL that has the UI style you want to follow (e.g., `https://gla
 - Card and Button design
 
 #### 4. Use this prompt in Stitch
-> "Create a modern web app called **[Your App Name]** based on the UI style of the website URL I provided. The app is for **[briefly describe your app idea]**. Include 5 main pages: Landing, Authentication (Sign In/Up), Dashboard, Statistics, and Profile. The app should feel clean and consistent."
+> "Create a modern web app called **[Your App Name]** based on the UI style of the website URL I provided. The app is for **[briefly describe your app idea]**. Include 3 main pages: Landing, Authentication (Sign In/Up), and Dashboard. The app should feel clean and consistent."
 
 #### 5. Refine the design
 Make the design cleaner and more premium. Improve the spacing, buttons, cards, and page consistency. **Keep the Stitch project open** for the next steps.
