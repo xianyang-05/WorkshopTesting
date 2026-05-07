@@ -94,7 +94,7 @@ Open Stitch in your browser and sign in with your Google account.
 Create a new project using your app name (e.g., `DailyFit`).
 
 #### 3. Paste a website URL as design reference
-Paste a website URL that has the UI style you want to follow. Stitch uses this for:
+Paste a website URL that has the UI style you want to follow (e.g., `https://glaido.com/`). Stitch uses this for:
 - Layout style & Spacing
 - Color theme & Typography
 - Card and Button design
@@ -153,8 +153,12 @@ Run the app and verify all pages and navigation.
 
 ### Phase 6: Connect Firebase MCP
 
-#### 1. Create Firebase project
-Go to [Firebase Console](https://console.firebase.google.com/) and create a project (e.g., `DailyFit`).
+#### 1. Create and Configure Firebase project
+- Go to [Firebase Console](https://console.firebase.google.com/) and create a project (e.g., `DailyFit`).
+- **Enable Email/Password Auth**:
+  - Go to **Authentication** → **Get Started**.
+  - Under **Sign-in method**, choose **Email/Password**.
+  - Toggle **Enabled** and click **Save**.
 
 #### 2. Connect Firebase MCP
 In Antigravity: `MCP Servers` → `Add Firebase MCP` → Connect your account.
