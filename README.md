@@ -183,7 +183,9 @@ Prompt Antigravity:
 2. *"Use my **[Your Firebase Project Name]** to set up email/password authentication. Connect the forms, handle redirects to the dashboard after login, and add a logout function."*
 
 #### 5. Test & Verify
-Sign up in your app, then check the **Users** tab in your Firebase Console to see the new entry.
+1. Open your web app and **create a new account** using the sign-up form.
+2. Check the **Users** tab in your Firebase Console to see the new entry.
+3. Try logging out and logging back in to verify the authentication flow.
 
 ---
 
