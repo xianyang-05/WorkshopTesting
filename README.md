@@ -136,7 +136,11 @@ If you see your project name in the list, the MCP is connected successfully!
 
 #### 1. Build the app UI
 Prompt Antigravity:
-> "Use my Stitch design as the visual reference.Build the UI for [Project Name] based on the Stitch design.Match the Stitch UI style and add working navigation between the pages."
+> "Use the [Project Name] Stitch project as the reference.
+>
+> Build the UI based on the project I selected in Stitch, using the same design style, layout, colors, and components.
+>
+> Add working navigation between the pages."
 
 #### 2. Improve Interaction
 Ask Antigravity to refine buttons:
