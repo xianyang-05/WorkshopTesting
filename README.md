@@ -187,7 +187,6 @@ Prompt Antigravity:
 #### 5. Test & Verify
 1. Open your web app and **create a new account** using the sign-up form.
 2. Check the **Users** tab in your Firebase Console to see the new entry.
-3. Try logging out and logging back in to verify the authentication flow.
 
 ---
 
