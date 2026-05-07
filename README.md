@@ -129,7 +129,8 @@ In Stitch: `Settings` → `API Keys` → `Create API Key`. Copy it (keep it priv
 In Antigravity: `MCP Servers` → `Add Stitch MCP` → Paste API Key → `Connect`.
 
 #### 3. Test Connection
-Ask Antigravity: *"List my Stitch projects."*
+Prompt Antigravity: *"List my Stitch projects."*
+
 If you see your project name in the list, the MCP is connected successfully!
 
 ---
