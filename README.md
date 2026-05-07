@@ -14,10 +14,12 @@ Node.js is required to run development tools and manage dependencies.
 - **Verify installation**:
   ```bash
   node -v
-  # Sample Output: v22.14.0
-  npm -v
-  # Sample Output: 11.2.0
   ```
+  **Sample Output**: `v22.14.0`
+  ```bash
+  npm -v
+  ```
+  **Sample Output**: `11.2.0`
 
 ### 2. Antigravity Installation
 Antigravity is the AI coding workspace used in this workshop.
@@ -36,8 +38,8 @@ Docker is needed to run some MCP servers locally, especially GitHub MCP.
 - **Verify installation**:
   ```bash
   docker --version
-  # Sample Output: Docker version 27.3.1, build ce12230
   ```
+  **Sample Output**: `Docker version 27.3.1, build ce12230`
 - **Verify Docker engine is running**:
   ```bash
   docker info
